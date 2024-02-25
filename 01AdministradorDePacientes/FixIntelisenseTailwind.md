@@ -1,0 +1,10 @@
+
+- Settings.json:
+
+~~~json
+"editor.quickSuggestions": {
+   "strings": true
+},
+"css.validate": false,
+"editor.inlineSuggest.enabled": true
+~~~
